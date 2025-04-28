@@ -2,7 +2,7 @@ import os
 import subprocess
 
 def clone_and_setup_repo():
-    repo_url = "<INSERT_REPO_URL_HERE>"
+    repo_url = "https://github.com/skoroghly/Robot-Framework-Appium-Integration.git"
     clone_dir = "Robot_Framework_Appium_Integration"
 
     # Clone the repository
